@@ -1,0 +1,31 @@
+CC,coordinating conjunction
+CD,cardinal numeral
+CS,subordinating conjunction
+EX,existential there
+JJ,adjective
+JJA,adjective + Auxiliary
+JJC,adjective: Comparative
+JJCC,Adjective + Conjunction
+JJS,semantically superlative adjective
+JJF,Adjective + Female
+JJM,Adjective + Male
+NN,singular or mass noun
+NNA,Noun + Auxiliary
+NNC,Noun + Conjunction
+NNS,plural noun
+NNP,proper noun or part of name phrase
+NNPC,proper noun + Conjunction
+PRP,personal pronoun: singular
+PRPS,personal pronoun: plural
+PRP$,Possessive pronoun
+RB,adverb
+RBR,comparative adverb
+RBS,superlative adverb
+VB,verb: base form
+VBA,verb: Auxiliary-singular-present
+VBD,verb: past tense
+VBG,verb: present participle/gerund
+VBN,verb: past participle
+VBZ,verb: 3rd. singular present
+FW,Foreign Words
+PUN,All Punctuations

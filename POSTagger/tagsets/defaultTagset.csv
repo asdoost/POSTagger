@@ -1,0 +1,14 @@
+NUN,Noun
+VRB,Verb
+ADJ,Adjective
+ADV,Adverb
+PRO,Pronoun
+ADP,Adpositions
+CNJ,Conjunctions
+NUM,Numerals
+ART,Articles
+DET,Determiners
+SYM,Symbols
+PNC,Punctuations
+FRG,Foreign
+UNK,Unknown

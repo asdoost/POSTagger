@@ -1,0 +1,40 @@
+﻿ADJ,Adjective:General
+ADJ_CMPR,Adjective:Comparative
+ADJ_INO,Past Participle
+ADJ_ORD,Adjective:Ordinal
+ADJ_SIM,Adjective:Simple
+ADJ_SUP,Adjective:Superlative
+ADV,Adverb:General
+ADV_EXM,Adverb:Exemplar
+ADV_I,Adverb:Question
+ADV_NEGG,Adverb:Negation
+ADV_NI,Adverb:Not Question
+ADV_TIME,Adverb:Time
+AR,Arabic Word
+CON,Conjunction
+DEFAULT,Default
+DELM,Delimiter
+DET,Determiner
+IF,Conditional
+INT,Interjection
+MORP,Morpheme
+MQUA,Modifier of Quantifier
+MS,Mathematic Symbol
+N_PL,Noun:Plural
+N_SING,Noun:Singular
+NN,Number
+NP,Noun Phrase
+OH,Oh Interjection
+OHH,Oh noun
+P,Preposition
+PP,Prepositional Phrase
+PRO,Pronoun 
+PS,Psedo-Sentence
+QUA,Quantifier
+SPEC,Specifier
+V_AUX,Verb:Auxiliary
+V_IMP,Verb:Imperative
+V_PA,Verb:Past Tense
+V_PRE,Verb:Predicative
+V_PRS,Verb:Present Tense
+V_SUB,Verb:Subjunctive
