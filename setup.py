@@ -10,13 +10,13 @@ with open(os.path.join(HERE, "README.md")) as fid:
 
 setup(
     name="POSTagger",
-    version="v0.1.12-beta",
+    version="v0.1.13-beta",
     description="A GUI app for semi-automatic POS tagging",
     long_description=README,
     long_description_content_type="text/markdown",
     keywords = "POS Tagger, Part of Speech Tagger",
     url="https://github.com/asdoost/POSTagger",
-    download_url = "https://github.com/asdoost/POSTagger/archive/refs/tags/v0.1.12-beta.tar.gz",
+    download_url = "https://github.com/asdoost/POSTagger/archive/refs/tags/v0.1.13-beta.tar.gz",
     author="Abbas Safardoost",
     author_email="a.safardoust@gmail.com",
     license="MIT",
