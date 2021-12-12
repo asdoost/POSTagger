@@ -5,13 +5,15 @@
 
 POSTagger is a GUI app for semi-automatic POS tagging.
 
+*_This is a beta version. I'm looking for your feedbacks._*
+
 ## Installation
 
 To install the app copy the follwing command in your terminal:
 
 `>>> pip install POSTagger`
 
-You can also simply download the repository via Github website or the following command:
+You can also download the repository via Github website or the following command:
 
 `>>> git clone https://github.com/asdoost/POSTagger`
 
@@ -25,13 +27,13 @@ To start POSTagger, simply type `POSTagger` in your command line:
 
 `>>> POSTagger`
 
-If you downloded the repository using `git clone`, go to the POSTagger folder and type the following command in your command line:
+If you have downloded the repository using `git clone`, go to the POSTagger folder and type the following command in your command line:
 
 `>>> ./POSTagger.py`
 
 ### Opening Wizard
 
-POSTagger starts with an openning wizard. Here, you can either import a project that you already saved, or you can start a new project by importing a corpus.
+POSTagger starts with an openning wizard. Here, you can either import a project that you have already saved, or you can start a new project by importing a corpus.
 
 ![Openning wizard](https://live.staticflickr.com/65535/51739596434_5e05e4a48d_o.png)
 
@@ -74,7 +76,7 @@ _`Re-tokenize`_ button retokenize the sentence up to the last word.
 
 _`Tag`_  which assigns the chosen tag two the word, using the preferred tagging style.
 
-_`Untag`_ strips the last word out of the chosen tag (untags what have has been tagged).
+_`Untag`_ strips the last word out of the chosen tag (untags what has been tagged).
 
 From the `File menu` choose `Save the project` to save what you have done.
 
